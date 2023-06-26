@@ -1,8 +1,8 @@
 # RedmiBook-14-II-AMD-hackintosh
-
+## Based on OpenCore-0.9.3-RELEASE
 ## 请使用 GenSMBIOS 或其他工具 更换SMBIOS
 ## 安装Macos时请关闭NootedRed
-## 跑码时卡顿请耐心等待
+## 若卡在含vnode字样的代码时请插拔USB
 
 ## Macos支持
 - ✅ macOS Ventura 13.4
@@ -32,8 +32,8 @@ https://github.com/DavidS95/Smokeless_UMAF
 
 XCHI控制器 | 接口
 :---------|:---------
-xchi0 | 左usb3.0 Type-C
-xchi1 | 右usb2.0
+xchi0 | 左usb3.0 下Type-C 蓝牙
+xchi1 | 右usb2.0 上Type-C(可充电)
 
 ### 网络
 - 更换AX200/201/210 并打上驱动
