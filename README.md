@@ -1,6 +1,8 @@
 # RedmiBook-14-II-AMD-hackintosh
 
 ## 请使用 GenSMBIOS 或其他工具 更换SMBIOS
+## 安装Macos时请关闭NootedRed
+## 跑码时卡顿请耐心等待
 
 ## Macos支持
 - ✅ macOS Ventura 13.4
