@@ -2,9 +2,13 @@
 
 ## 请使用 GenSMBIOS 或其他工具 更换SMBIOS
 
+## Macos支持
+- ✅ macOS Ventura 13.4
+- 其他系统自测
+
 ## 配置
 
-Type | Spec | 支持
+Type | Spec | 支持性
 :---------|:---------|:---------
 Model Name | RedmiBook 14 II 锐龙版 | 支持
 CPU | AMD Ryzen™ 5 4500U | 支持
@@ -31,7 +35,13 @@ xchi1 | 右usb2.0
 
 ### 网络
 - 更换AX200/201/210 并打上驱动
-- 插入 macos 免驱/可打驱动 的 有线/无线 网卡
+- 插入 macos可驱动的 有线/无线 网卡
 - 使用手机usb网络共享
 
+## Credits
 
+- [Apple](https://www.apple.com) for macOS.
+- [Acidanthera](https://github.com/acidanthera) for OpenCore and most Kexts.
+- [NootInc](https://github.com/NootInc) for all the hard work to support AMD iGPU and trackpad.
+- [ExtremeXT](https://github.com/ExtremeXT) for the instruction to disable XHC1
+- And anyone else that helped to develop and improve hackintoshing.
