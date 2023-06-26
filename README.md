@@ -38,6 +38,9 @@ xchi1 | 右usb2.0
 - 插入 macos可驱动的 有线/无线 网卡
 - 使用手机usb网络共享
 
+### 睡眠
+### 内置麦克风
+
 ## Credits
 
 - [Apple](https://www.apple.com) for macOS.
