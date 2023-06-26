@@ -5,11 +5,12 @@
 ## 配置
 
 Type | Spec | 支持
-:---------|:---------
+:---------|:---------|:---------
 Model Name | RedmiBook 14 II 锐龙版 | 支持
 CPU | AMD Ryzen™ 5 4500U | 支持
 RAM | 16 GB 2667 MHz DDR4 | 支持
 Wi-Fi | Realtek 8822CE | 不支持
+蓝牙 | Realtek 8822CE | 不支持
 Audio | Realtek ALC256 | 支持
 硬盘 | PM881 | 支持
 键盘 | PS2 controller | 支持
