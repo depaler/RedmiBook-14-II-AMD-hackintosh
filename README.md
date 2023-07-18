@@ -1,5 +1,5 @@
 # RedmiBook-14-II-AMD-hackintosh
-[中文](./README_ZH.md)
+English | [中文](./README_ZH.md)
 ## Based on OpenCore-0.9.3-RELEASE
 ## Please use the GenSMBIOS or other tools to change the SMBIOS
 ## When you are installing Macos,disable NootedRed
