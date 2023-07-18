@@ -1,47 +1,45 @@
 # RedmiBook-14-II-AMD-hackintosh
+![中文](./README_ZH.md)
 ## Based on OpenCore-0.9.3-RELEASE
-## 请使用 GenSMBIOS 或其他工具 更换SMBIOS
-## 安装Macos时请关闭NootedRed
-## 若卡在含vnode字样的代码时请插拔USB
+## Please use the GenSMBIOS or other tools to change the SMBIOS
+## When you are installing Macos,disable NootedRed
+## If your code gets stuck with the words include "vnode" ,please Plug or unplug USB
 
-## Macos支持
+## Macos supportability
 - ✅ macOS Ventura 13.4
-- 其他系统自测
+- ……Waiting for you to test
 
-## 配置
+## hardware configuration
 
-Type | Spec | 支持性
+Type | Spec | supportability
 :---------|:---------|:---------
-Model Name | RedmiBook 14 II 锐龙版 | 支持
-CPU | AMD Ryzen™ 5 4500U | 支持
-RAM | 16 GB 2667 MHz DDR4 | 支持
-Wi-Fi | Realtek 8822CE | 不支持
-蓝牙 | Realtek 8822CE | 不支持
-Audio | Realtek ALC256 | 支持
-硬盘 | PM881 | 支持
-键盘 | PS2 controller | 支持
-触摸板 | ELAN230A |支持
-USB | 关闭XCHI | 支持
+Model Name | RedmiBook 14 II AMD | ✅
+CPU | AMD Ryzen™ 5 4500U | ✅
+RAM | Samsung 16 GB 2667 MHz DDR4 | ✅
+Wi-Fi | Realtek 8822CE | ❌
+Bluetooth | Realtek 8822CE | ❌
+Audio | Realtek ALC256 | ✅
+SSD | Samsung PM881 | ✅
+KeyBoard | PS2 controller | ✅
+TouchPad | ELAN230A |✅
+USB | disable XCHI0/1 | ✅
 
 
-## 问题
+## Problem
 
 ### USB
-使用UMAF工具对XCHI控制器进行禁用
+Use the UMAF to disable XCHI controler
 https://github.com/DavidS95/Smokeless_UMAF
 
-XCHI控制器 | 接口
+XCHI controler | USB port
 :---------|:---------
-xchi0 | 左usb3.0 下Type-C 蓝牙
-xchi1 | 右usb2.0 上Type-C(可充电)
+xchi0 | left usb3.0 , lower side Type-C and Bluetooth(?)
+xchi1 | right usb2.0 and upper side Type-C(Still able to charge)
 
-### 网络
-- 更换AX200/201/210 并打上驱动
-- 插入 macos可驱动的 有线/无线 网卡
-- 使用手机usb网络共享
-
-### 睡眠
-
+### Network
+- replace supported network card
+- using USB network sharing on mobile phones
+### sleep
 ## Credits
 
 - [Apple](https://www.apple.com) for macOS.
