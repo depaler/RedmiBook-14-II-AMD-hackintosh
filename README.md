@@ -5,7 +5,7 @@ English | [中文](./README_ZH.md)
 ## Tips
 ### Please use the GenSMBIOS or other tools to change the SMBIOS
 ### When you are installing Macos,disable NootedRed
-### If your code gets stuck with the words include "vnode" ,please Plug or unplug USB
+### If your code gets stuck with the words include "vnode" ,please Plug or/and unplug USB
 
 
 ## Macos supportability
