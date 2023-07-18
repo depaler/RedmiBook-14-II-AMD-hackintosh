@@ -1,13 +1,15 @@
 # RedmiBook-14-II-AMD-hackintosh
 English | [中文](./README_ZH.md)
-## Based on OpenCore-0.9.3-RELEASE
-## Please use the GenSMBIOS or other tools to change the SMBIOS
-## When you are installing Macos,disable NootedRed
-## If your code gets stuck with the words include "vnode" ,please Plug or unplug USB
+### Based on OpenCore-0.9.3-RELEASE
+### Please use the GenSMBIOS or other tools to change the SMBIOS
+### When you are installing Macos,disable NootedRed
+### If your code gets stuck with the words include "vnode" ,please Plug or unplug USB
+
 
 ## Macos supportability
 - ✅ macOS Ventura 13.4
 - ……Waiting for you to test
+
 
 ## hardware configuration
 
@@ -39,7 +41,10 @@ xchi1 | right usb2.0 and upper side Type-C(Still able to charge)
 ### Network
 - replace supported network card
 - using USB network sharing on mobile phones
+
 ### sleep
+
+
 ## Credits
 
 - [Apple](https://www.apple.com) for macOS.
