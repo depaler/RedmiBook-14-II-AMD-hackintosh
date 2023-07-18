@@ -1,4 +1,5 @@
 # RedmiBook-14-II-AMD-hackintosh
+[English](./README.md) | 中文
 ## 基于 OpenCore-0.9.3-RELEASE
 ## 请使用 GenSMBIOS 或其他工具 更换SMBIOS
 ## 安装Macos时请关闭NootedRed
