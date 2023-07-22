@@ -49,6 +49,7 @@ xchi1 | 右usb2.0 上Type-C(可充电)
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and most Kexts.
 - [NootInc](https://github.com/NootInc) for all the hard work to support AMD iGPU and trackpad.
 - [ExtremeXT](https://github.com/ExtremeXT) for the instruction to disable XHC1
+- [qhuyduong](https://github.com/qhuyduong) for AMDMicrophone.
 - And anyone else that helped to develop and improve hackintoshing.
 
 ![Ventura](./Screenshots/2023-06-26.png)
