@@ -13,7 +13,7 @@ English | [中文](./README_ZH.md)
 - ……Waiting for you to test
 
 
-## hardware configuration
+## hardware
 
 Type | Spec | supportability
 :---------|:---------|:---------
